@@ -1,0 +1,15 @@
+---
+title: "About"
+search: false
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - text: "{{< iconify fa6-brands:bluesky >}} Bluesky"
+      href: https://bsky.app/profile/deeshura.bsky.social
+    - text: "{{< iconify fa6-brands:github >}} Github"
+      href: https://github.com/deeshura/
+
+---
+
+Just a nerdy little blog with a focus on Pokemon and my other special interests.

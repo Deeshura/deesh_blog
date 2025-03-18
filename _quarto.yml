@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Deeshura's Blog"
+  favicon: icon.png
+  navbar:
+    right:
+      - text: "{{< iconify fa6-solid:address-card size=xl >}}"
+        href: about.qmd
+      - text: "{{< iconify fa6-brands:bluesky size=xl >}}"
+        href: https://bsky.app/profile/deeshura.bsky.social
+      - text: "{{< iconify fa6-brands:github size=xl >}}"
+        href: https://github.com/deeshura/
+  search:
+    location: navbar
+    type: textbox
+    keyboard-shortcut: ["s"]
+  open-graph: true
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+language: 
+  search-text-placeholder: Search (Press S)
+
+
