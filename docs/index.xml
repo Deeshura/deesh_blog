@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Deeshura&#39;s Blog</title>
-<link>https://www.example.com/</link>
-<atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://deeshura.github.io/deesh_blog/</link>
+<atom:link href="https://deeshura.github.io/deesh_blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Just a nerdy little blog.</description>
 <generator>quarto-1.6.42</generator>
 <lastBuildDate>Mon, 24 Mar 2025 16:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome!</title>
   <dc:creator>Deeshura </dc:creator>
-  <link>https://www.example.com/posts/welcome/</link>
+  <link>https://deeshura.github.io/deesh_blog/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +22,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://www.example.com/posts/welcome/Load_wp02.png" class="img-fluid figure-img" alt="An illustration of a Cubone looking at a Pelliper perched on a mailbox."></p>
+<p><img src="https://deeshura.github.io/deesh_blog/posts/welcome/Load_wp02.png" class="img-fluid figure-img" alt="An illustration of a Cubone looking at a Pelliper perched on a mailbox."></p>
 <figcaption>Image courtesy of <a href="https://projectpokemon.org/home/gallery/image/78807-load_wp02png">Project Pokemon</a></figcaption>
 </figure>
 </div>
@@ -34,7 +34,7 @@
  ]]></description>
   <category>first</category>
   <category>news</category>
-  <guid>https://www.example.com/posts/welcome/</guid>
+  <guid>https://deeshura.github.io/deesh_blog/posts/welcome/</guid>
   <pubDate>Mon, 24 Mar 2025 16:00:00 GMT</pubDate>
 </item>
 </channel>
