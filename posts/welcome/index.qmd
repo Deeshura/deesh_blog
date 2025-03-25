@@ -1,12 +1,14 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-03-15"
-categories: [news]
+title: "Welcome!"
+author: "Deeshura"
+date: "2025-03-25"
+categories:
+    - first
+    - news
 ---
 
-This is the first post in a Quarto blog. Welcome!
+![Image courtesy of [Project Pokemon](https://projectpokemon.org/home/gallery/image/78807-load_wp02png)](Load_wp02.png){fig-alt="An illustration of a Cubone looking at a Pelliper perched on a mailbox."}
 
-![](thumbnail.jpg)
+Welcome to my blog! This is just going to be a place where I occasionally dump my general thoughts and opinions on all my favourite little topics. Almost like the opinion section of a newspaper; though hopefully with a generally positive and upbeat vibe!
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Be sure to stay up to date by [subscribing via RSS feed](../../index.xml), or by following me on [Bluesky](https://bsky.app/profile/deeshura.bsky.social)!

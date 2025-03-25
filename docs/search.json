@@ -2,15 +2,8 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Welcome!",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Image courtesy of Project Pokemon\n\n\nWelcome to my blog! This is just going to be a place where I occasionally dump my general thoughts and opinions on all my favourite little topics. Almost like the opinion section of a newspaper; though hopefully with a generally positive and upbeat vibe!\nBe sure to stay up to date by subscribing via RSS feed, or by following me on Bluesky!"
   }
 ]

@@ -1,0 +1,9 @@
+---
+title: "dummy"
+author: "Deeshura"
+date: "2025-03-18"
+categories: [dummy]
+draft: true
+---
+
+This is a post with executable code.

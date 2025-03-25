@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Deeshura's Blog"
+  site-url: https://www.example.com
+  description: "Just a nerdy little blog."
   favicon: icon.png
   navbar:
     right:
@@ -13,18 +15,29 @@ website:
         href: https://bsky.app/profile/deeshura.bsky.social
       - text: "{{< iconify fa6-brands:github size=xl >}}"
         href: https://github.com/deeshura/
+      - text: "{{< iconify fa6-solid:square-rss size=xl >}}"
+        href: index.xml
   search:
     location: navbar
     type: textbox
     keyboard-shortcut: ["s"]
   open-graph: true
+  draft-mode: gone
+
 format:
   html:
     theme:
       light: flatly
       dark: darkly
     css: styles.css
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+mainfont: Atkinson Hyperlegible Next
+monofont: Atkinson Hyperlegible Mono
+fontsize: '1.25em'
+title-block-banner: false
+
 language: 
   search-text-placeholder: Search (Press S)
-
-
