@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Deeshura's Blog"
-  site-url: https://www.example.com
+  site-url: https://deeshura.github.io/deesh_blog/
   description: "Just a nerdy little blog."
   favicon: icon.png
   navbar:
